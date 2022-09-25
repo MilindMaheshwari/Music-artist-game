@@ -1,0 +1,9 @@
+input[type=text]{
+    
+    border: 0ch;
+    border-radius: 20px;
+    background-color: ghostwhite;
+    height: 5em;
+    width: 500px;
+    box-shadow: 10px 10px;
+}   
